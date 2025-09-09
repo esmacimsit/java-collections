@@ -3,7 +3,7 @@ import java.util.Collections;
 
 public class ArrayListExp {
     static ArrayList<String> brands = new ArrayList<String>();
-//    static var =  new ArrayList<String>(); // alternative usage
+    //    static var =  new ArrayList<String>(); // alternative usage
 // if you declare with list = new... more flexible
     static {
         brands.add("apple");
