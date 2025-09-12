@@ -1,0 +1,3 @@
+interface AnonymousClass {
+    void sayHello();
+}
